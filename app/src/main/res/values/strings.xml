@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TestTask</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="button_load_users">Update user list</string>
+    <string name="address">Address:</string>
+    <string name="phone_number">Phone number:</string>
+    <string name="gender">Gender:</string>
+    <string name="date_of_birth">Date of birth:</string>
+    <string name="nationality">Nationality:</string>
+    <string name="country">Country:</string>
+    <string name="city">City:</string>
+    <string name="street">Street:</string>
+    <string name="postcode">Postcode:</string>
+    <string name="timezone">Timezone:</string>
+    <string name="coordinates">Coordinates:</string>
+    <string name="email">Email:</string>
+    <string name="username">Username:</string>
+    <string name="password">Password:</string>
+    <string name="loading">Loading…</string>
+    <string name="fragment_user_list">User list</string>
+    <string name="fragment_user_details">User details</string>
+</resources>
